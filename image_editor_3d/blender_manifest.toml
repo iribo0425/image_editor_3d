@@ -1,0 +1,29 @@
+schema_version = "1.0.0"
+
+id = "image_editor_3d"
+version = "1.0.0"
+name = "Image Editor 3D"
+tagline = "Editing image in 3D"
+maintainer = "Iribo <email@address.com>"
+type = "add-on"
+
+# website = "https://extensions.blender.org/add-ons/my-example-package/"
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+copyright = [
+    "2025 Iribo",
+]
+
+[permissions]
+files = "Import/export image from/to disk"
+
+[build]
+paths_exclude_pattern = [
+    "__pycache__/",
+    "/.git/",
+    "/*.zip",
+]
