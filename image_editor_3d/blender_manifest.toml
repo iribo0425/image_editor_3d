@@ -7,7 +7,7 @@ tagline = "Editing image in 3D"
 maintainer = "Iribo <iribo.contact2@gmail.com>"
 type = "add-on"
 
-# website = "https://extensions.blender.org/add-ons/my-example-package/"
+website = "https://github.com/iribo0425/image_editor_3d"
 
 blender_version_min = "4.2.0"
 
