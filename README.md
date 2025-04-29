@@ -4,9 +4,9 @@ Add-on for image editing in 3D space.
 
 # Features & User Manual
 
-If you would like to use this add-on, please see the following page (Japanese):
+If you would like to use this add-on, please see the following page:
 
-[Features & User Manual](https://note.com/iribo/n/n6f1315665f5d)
+[Features & User Manual (Japanese)](https://note.com/iribo/n/n6f1315665f5d)
 
 # Development
 
