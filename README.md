@@ -6,7 +6,7 @@ Add-on for image editing in 3D space.
 
 If you would like to use this add-on, please see the following page (Japanese):
 
-(link)
+[Features & User Manual](https://note.com/iribo/n/n6f1315665f5d)
 
 # Development
 
