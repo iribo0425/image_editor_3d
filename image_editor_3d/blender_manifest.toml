@@ -1,13 +1,13 @@
 schema_version = "1.0.0"
 
 id = "image_editor_3d"
-version = "1.0.0"
+version = "0.9.0"
 name = "Image Editor 3D"
 tagline = "Editing image in 3D"
-maintainer = "Iribo <email@address.com>"
+maintainer = "Iribo <iribo.contact2@gmail.com>"
 type = "add-on"
 
-# website = "https://extensions.blender.org/add-ons/my-example-package/"
+website = "https://github.com/iribo0425/image_editor_3d"
 
 blender_version_min = "4.2.0"
 
